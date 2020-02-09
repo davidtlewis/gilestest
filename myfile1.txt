@@ -1,2 +1,3 @@
 a line typed in notepad
 anotehr line created in VSC - look  - the gutter is green
+so this is the throi line - the one that realy drives this feature
