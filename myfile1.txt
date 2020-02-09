@@ -1,1 +1,2 @@
 a line typed in notepad
+anotehr line created in VSC - look  - the gutter is green
